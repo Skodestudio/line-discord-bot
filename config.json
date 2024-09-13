@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "imageUrl": "رابط_الصورة_هنا",
+  "requiredRoleId": "ROLE_ID"
+}
